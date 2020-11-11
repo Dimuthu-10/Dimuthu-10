@@ -14,6 +14,6 @@
   
   
 ## :mailbox: How to reach me : 
-[<img src="https://www.flaticon.com/free-icon/gmail_281769"/>](mailto:wddlakshan10@yahoo.com )
+[<i class="fas fa-envelope"></i>](mailto:wddlakshan10@yahoo.com )
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/dimuthu10)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://github.com/Dimuthu-10)
