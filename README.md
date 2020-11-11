@@ -1,12 +1,12 @@
 ### Hi there, I am Dimuthu Lakshan 👋
 
 <!--
-**Dimuthu-10/Dimuthu-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dimuthu-10/Dimuthu-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m studying at Sabaragamuwa University of Sri Lanka ...
 - 🌱 I’m currently reading my Bsc Special Degree of Information Systems ...
 - 👯 I’m looking to collaborate with other developers ...
 - 🤔 I would like to sharing knowledge...
--->
+
 
 <p align="right">Visitors count <img src="https://profile-counter.glitch.me/Dimuthu-10/count.svg" />
