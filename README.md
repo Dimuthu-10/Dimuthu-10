@@ -9,7 +9,7 @@
 - 🤔 I would like to sharing knowledge...
 
 
-<p align="right" font weight="bolder">#Visitors count <img src="https://profile-counter.glitch.me/Dimuthu-10/count.svg" />
+<p align="right">Visitors count <img src="https://profile-counter.glitch.me/Dimuthu-10/count.svg" />
 <img align="left" alt="dimuthu stats in github" src="https://github-readme-stats.vercel.app/api?username=Dimuthu-10&show_icons=true&hide_border=true" />
   
   
