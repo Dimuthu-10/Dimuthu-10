@@ -10,8 +10,8 @@
 
 
 <p align="right">Visitors count <img src="https://profile-counter.glitch.me/Dimuthu-10/count.svg" />
-<img align="left" alt="dimuthu stats in github" src="https://github-readme-stats.vercel.app/api?username=Dimuthu-10&theme=dark&show__icons=true&hide_border=true" />
-  
+<img align="left" alt="dimuthu stats in github" src="https://github-readme-stats.vercel.app/api?username=RSH17&theme=dark&show_icons=true&hide_border=true" />
+                                                      
   
 ## :mailbox: How to reach me : 
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png" />](mailto:wddlakshan10@yahoo.com )
