@@ -1,19 +1,66 @@
-### Hi there, I am Dimuthu Lakshan 👋
+<h1 align="center">Hi 👋, I'm Dimuthu Lakshan</h1>
+<h3 align="center">Lecturer | AI & Automation Researcher | Software Engineer</h3>
 
-<!--
-**Dimuthu-10/Dimuthu-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+---
 
-- 🔭 I’m studying at [Sabaragamuwa University of Sri Lanka](https://www.sab.ac.lk/) ...
-- 🌱 I’m currently reading my Bsc Special Degree of Information Systems ...
-- 👯 I’m looking to collaborate with other developers ...
-- 🤔 I would like to sharing knowledge...
+🎓 I am currently working as a **Lecturer in Software Engineering**, contributing to teaching and research in modern computing technologies.
 
+💡 My interests focus on **Artificial Intelligence, Machine Learning, Computer Vision, and Automation Systems**, especially their applications in **real-world problem solving and intelligent systems**.
 
-<p align="right">Visitors count <img src="https://profile-counter.glitch.me/Dimuthu-10/count.svg" />
-<img align="left" alt="dimuthu stats in github" src="https://github-readme-stats.vercel.app/api?username=Dimuthu-10&theme=dark&show_icons=true&hide_border=true" />
-                                                      
-  
-## :mailbox: How to reach me : 
-[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png" />](mailto:wddlakshan10@yahoo.com )
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/dimuthu10)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://github.com/Dimuthu-10)
+---
+
+### 🚀 About Me
+
+- 🔭 I’m currently working as a **Lecturer in Software Engineering**
+- 🎓 Graduated from **Sabaragamuwa University of Sri Lanka**
+- 📊 Currently exploring **AI-powered intelligent systems and data-driven solutions**
+- 👯 I’m open to **research collaborations and academic projects**
+- 📚 Passionate about **teaching, mentoring students, and knowledge sharing**
+
+---
+
+### 🧠 Research Interests
+
+- Artificial Intelligence  
+- Machine Learning  
+- Computer Vision  
+- Intelligent Automation  
+- AI for Autonomous Systems  
+- Data-driven Decision Systems  
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Dimuthu-10&theme=dark&show_icons=true&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+<a href="mailto:w.d.lakshan10@gmail.com">
+<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dimuthu10">
+<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
+</a>
+
+<a href="https://github.com/Dimuthu-10">
+<img src="https://img.icons8.com/bubbles/50/000000/github.png"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+Visitors Count  
+<img src="https://profile-counter.glitch.me/Dimuthu-10/count.svg" />
+</p>
+
+---
+
+⭐ *“Empowering students through technology, research, and innovation.”*
